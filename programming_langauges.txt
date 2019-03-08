@@ -1,0 +1,3 @@
+John: C++, JavaScript, Python, HTMl, CSS
+Kamal: C++
+Andreys: C++, JavaScript, HTML, Node.js, SQL, pSQL
