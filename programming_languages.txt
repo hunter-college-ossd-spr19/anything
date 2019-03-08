@@ -1,3 +1,0 @@
-List of Programming Languages
-
-Description: This file contains all of the languages that each team member knows well enough to program in.
