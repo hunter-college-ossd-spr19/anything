@@ -1,4 +1,4 @@
-# anything
+# anything.js
 *Team of Andrey, Kamal, John*
 
 ### Step 3
